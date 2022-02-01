@@ -1,5 +1,5 @@
 import { Navbar, NavbarBrand, NavbarToggler, Collapse, Nav, NavLink, NavItem} from 'reactstrap';
-import Logo from './CardWidget';
+import Logo from './Logo';
 
 const NavBar = (props) => {  
     return (
